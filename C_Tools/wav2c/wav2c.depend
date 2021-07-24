@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1627125911 source:/Devel/STM32WorkSpace/f723edisco/C_Tools/wav2c/main.c
+	"wavdata.h"
+	<stdlib.h>
+
+1627125911 /Devel/STM32WorkSpace/f723edisco/C_Tools/wav2c/wavdata.h
+	<strings.h>
+	<stdio.h>
+
+1627126045 source:/Devel/STM32WorkSpace/f723edisco/C_Tools/wav2c/wavdata.c
+	"wavdata.h"
+	<stdlib.h>
+	<string.h>
+
